@@ -1,10 +1,18 @@
  
+<<<<<<< HEAD
+=======
+---
+>>>>>>> f7af77e9c5d77e511c2b2a9949e0feee1200d1a6
 
 # Developer Portfolio
 
 ### Are you struggling to create a professional portfolio website? Look no further! You can use the Developer Portfolio template and create your very own personalized portfolio today! My website is designed to be user-friendly and easily customizable, making it perfect for both developers and freelancers.
 
 --- 
+<<<<<<< HEAD
+=======
+
+>>>>>>> f7af77e9c5d77e511c2b2a9949e0feee1200d1a6
 ---
 
 ## Table of Contents :scroll:
